@@ -16158,6 +16158,11 @@ Gallery Item
       .eduvibe-landing-banner .banner-image {
         margin: -100px -30px 0 -140px; } }
     @media only screen and (max-width: 575px) {
+
+      #page--title {
+        font-size: 1.45rem !important;
+      }
+
       .eduvibe-landing-banner .banner-image {
         margin: -70px 0px 0 -100px; } }
     @media only screen and (max-width: 479px) {
