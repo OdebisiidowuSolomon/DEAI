@@ -16070,6 +16070,10 @@ Gallery Item
           height: inherit;
           min-height: inherit; } }
     @media only screen and (max-width: 767px) {
+      .banner-image {
+        margin: -57px 0px !important;
+      }
+
       .eduvibe-landing-banner .height-800 {
         padding: 140px 0 70px; }
         .eduvibe-landing-banner .height-800 .height-940 {
